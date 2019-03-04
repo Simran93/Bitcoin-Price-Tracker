@@ -2,8 +2,7 @@
 !
 
 #  Bitcoin Ticker : 
-I have started doing iOS development course from Udemy and i am asked to perform the challenge to create this Project.
-
+I have created this application as part of my iOS App Development course curriculum from Udemy Website and Stanford University.
 ## Our Goal
 
 The objective of this challenge is to  make a Bitcoin price reporter. We are going to use Cocoapods, networking calls and JSON parsing. 
