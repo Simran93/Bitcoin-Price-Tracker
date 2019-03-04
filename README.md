@@ -2,7 +2,7 @@
 !
 
 #  Bitcoin Ticker : 
-I have started doing iOS development course from Udemy and i am asked to complete the challenge to create this Project.
+I have started doing iOS development course from Udemy and i am asked to perform the challenge to create this Project.
 
 ## Our Goal
 
