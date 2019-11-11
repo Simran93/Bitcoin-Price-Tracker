@@ -14,7 +14,7 @@ class ViewController: UIViewController,UIPickerViewDataSource,UIPickerViewDelega
     var finalURL = ""
     var currencySelected = ""
 
-    //Pre-setup IBOutlets
+   
     @IBOutlet weak var bitcoinPriceLabel: UILabel!
     @IBOutlet weak var currencyPicker: UIPickerView!
     
@@ -29,7 +29,7 @@ class ViewController: UIViewController,UIPickerViewDataSource,UIPickerViewDelega
     }
 
     
-    //TODO: Place your 3 UIPickerView delegate methods here
+    
     func numberOfComponents(in pickerView: UIPickerView) -> Int {
         return 1
     }
